@@ -10,8 +10,8 @@ import path from "node:path";
 import crypto from "node:crypto";
 
 const WINDOW_MS = 24 * 3600 * 1000;
-const PER_SOURCE = 5;
-const CAP = { tech: 15, world: 10, biz: 8, defense: 7 };
+const PER_SOURCE = 3;
+const CAP = { tech: 20, world: 12, biz: 9, defense: 9 };
 const BATCH = 8;
 
 const LLM_KEY = process.env.LLM_API_KEY || "";

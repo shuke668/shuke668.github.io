@@ -7,6 +7,8 @@
 - { name: "TechCrunch",         category: "tech",    rss: "https://techcrunch.com/feed/" }
 - { name: "MIT Tech Review",    category: "tech",    rss: "https://www.technologyreview.com/feed/" }
 - { name: "The Verge",          category: "tech",    rss: "https://www.theverge.com/rss/index.xml" }
+- { name: "爱范儿",              category: "tech",    rss: "https://www.ifanr.com/feed" }
+- { name: "少数派",              category: "tech",    rss: "https://sspai.com/feed" }
 
 - { name: "BBC World",          category: "world",   rss: "https://feeds.bbci.co.uk/news/world/rss.xml" }
 - { name: "Al Jazeera",         category: "world",   rss: "https://www.aljazeera.com/xml/rss/all.xml" }
@@ -14,7 +16,7 @@
 - { name: "NYT World",          category: "world",   rss: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml" }
 
 - { name: "华尔街见闻",          category: "biz",     rss: "https://dedicated.wallstreetcn.com/rss.xml" }
-- { name: "36氪",               category: "biz",     rss: "https://36kr.com/feed" }
+- { name: "钛媒体",              category: "biz",     rss: "https://www.tmtpost.com/rss" }
 
 - { name: "Defense News",       category: "defense", rss: "https://www.defensenews.com/arc/outboundfeeds/rss/" }
 - { name: "The War Zone",       category: "defense", rss: "https://www.thedrive.com/the-war-zone/feed" }
