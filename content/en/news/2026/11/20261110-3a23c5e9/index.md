@@ -1,0 +1,20 @@
+---
+title: "Horible public key tricks"
+date: 2026-11-10T00:07:17.000Z
+kind: flash
+categories: ["tech"]
+tags: []
+summary: "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: …"
+source_name: "Hacker News"
+source_url: "https://maurycyz.com/projects/badcert"
+source_time: 2026-11-10T00:07:17.000Z
+featured: false
+draft: false
+---
+Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: …
+
+[Read original →](https://maurycyz.com/projects/badcert)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*

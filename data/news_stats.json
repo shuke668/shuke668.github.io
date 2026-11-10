@@ -1,0 +1,93 @@
+{
+  "updated_at": "2026-11-10T03:50:48.082Z",
+  "scanned": 37,
+  "written": 74,
+  "source_count": 14,
+  "today_count": 32,
+  "sources": [
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "items": 5,
+      "error": ""
+    },
+    {
+      "name": "Ars Technica",
+      "ok": true,
+      "items": 1,
+      "error": ""
+    },
+    {
+      "name": "TechCrunch",
+      "ok": true,
+      "items": 5,
+      "error": ""
+    },
+    {
+      "name": "MIT Tech Review",
+      "ok": true,
+      "items": 4,
+      "error": ""
+    },
+    {
+      "name": "The Verge",
+      "ok": true,
+      "items": 0,
+      "error": ""
+    },
+    {
+      "name": "BBC World",
+      "ok": true,
+      "items": 5,
+      "error": ""
+    },
+    {
+      "name": "Al Jazeera",
+      "ok": true,
+      "items": 5,
+      "error": ""
+    },
+    {
+      "name": "The Guardian World",
+      "ok": true,
+      "items": 0,
+      "error": ""
+    },
+    {
+      "name": "NYT World",
+      "ok": true,
+      "items": 0,
+      "error": ""
+    },
+    {
+      "name": "华尔街见闻",
+      "ok": true,
+      "items": 5,
+      "error": ""
+    },
+    {
+      "name": "36氪",
+      "ok": false,
+      "items": 0,
+      "error": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+    },
+    {
+      "name": "Defense News",
+      "ok": true,
+      "items": 5,
+      "error": ""
+    },
+    {
+      "name": "The War Zone",
+      "ok": true,
+      "items": 2,
+      "error": ""
+    },
+    {
+      "name": "Breaking Defense",
+      "ok": true,
+      "items": 0,
+      "error": ""
+    }
+  ]
+}
