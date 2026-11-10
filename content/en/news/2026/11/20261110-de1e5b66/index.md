@@ -1,0 +1,20 @@
+---
+title: "长安马自达营销换将，电动化进入渠道调整期"
+date: 2026-11-10T13:26:58.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "11月9日，长安马自达宣布，销售分公司执行副总经理吴旭曦因工作调整将接受新的任命，刘斌即日起接任该职务。 刘斌做汽车销售和营销超过25年，曾任长安汽车销售有限公司分销中心总监，也管过长安欧尚在广州的区域业务。他接手时，长安马自达的新能源车已…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3785663"
+source_time: 2026-11-10T13:26:58.000Z
+featured: false
+draft: false
+---
+11月9日，长安马自达宣布，销售分公司执行副总经理吴旭曦因工作调整将接受新的任命，刘斌即日起接任该职务。 刘斌做汽车销售和营销超过25年，曾任长安汽车销售有限公司分销中心总监，也管过长安欧尚在广州的区域业务。他接手时，长安马自达的新能源车已…
+
+[Read original →](https://wallstreetcn.com/articles/3785663)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
