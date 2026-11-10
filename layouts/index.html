@@ -2,6 +2,17 @@
 {{ $items := where .Site.RegularPages "Section" "in" (slice "news" "posts") }}
 {{ $items = $items.ByDate.Reverse }}
 {{ $featured := where $items "Params.featured" true }}
+{{ $lead := slice }}
+{{ range first 4 $featured }}{{ $lead = $lead | append . }}{{ end }}
+{{ if lt (len $lead) 4 }}
+  {{ range first (sub 4 (len $lead)) (where $items "Params.featured" "ne" true) }}
+    {{ $lead = $lead | append . }}
+  {{ end }}
+{{ end }}
+{{ $leadSet := slice }}
+{{ range $lead }}{{ $leadSet = $leadSet | append .RelPermalink }}{{ end }}
+{{ $rows := slice }}
+{{ range $items }}{{ if not (in $leadSet .RelPermalink) }}{{ $rows = $rows | append . }}{{ end }}{{ end }}
 
 <section class="hero">
   <div class="container hero-inner">
@@ -42,12 +53,12 @@
 <section class="section">
   <div class="container layout-2col">
     <div class="col-main">
-      {{ if $featured }}
+      {{ if $lead }}
       <div class="section-head">
         <h2>{{ i18n "featured" }}</h2>
       </div>
       <div class="card-grid card-grid-2">
-        {{ range first 4 $featured }}
+        {{ range $lead }}
         {{ partial "news-card.html" . }}
         {{ end }}
       </div>
@@ -58,9 +69,9 @@
         <a class="section-more" href="{{ "news/" | relLangURL }}">{{ i18n "all_news" }} →</a>
       </div>
 
-      {{ if $items }}
+      {{ if $rows }}
       <ul class="timeline">
-        {{ range first 30 $items }}
+        {{ range first 30 $rows }}
         {{ partial "news-row.html" . }}
         {{ end }}
       </ul>

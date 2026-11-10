@@ -49,7 +49,7 @@ const pending = [];
 for (const src of sources) {
   const rec = { name: src.name, ok: false, items: 0, error: "" };
   try {
-    const feed = await parser.parseURL(src.rss);
+    const feed = await parseFeed(src.rss);
     rec.ok = true;
     for (const item of (feed.items || []).slice(0, PER_SOURCE)) {
       if (counters[src.category] >= CAP[src.category]) break;
@@ -109,6 +109,26 @@ console.log(`抓取完成：扫描 ${stats.scanned} 条，写入 ${written} 个�
 if (failed.length) console.log(`失败源：${failed.join(", ")}`);
 
 /* ---------------- 工具函数 ---------------- */
+
+async function parseFeed(url) {
+  try {
+    return await parser.parseURL(url);
+  } catch (first) {
+    const res = await fetch(url, {
+      headers: { "User-Agent": "Mozilla/5.0 (compatible; ShukeWatchBot/1.0; +https://github.com/shuke668)" },
+      signal: AbortSignal.timeout(20000),
+    });
+    if (!res.ok) throw first;
+    return await parser.parseString(sanitizeXml(await res.text()));
+  }
+}
+
+// 部分中文源（如 36氪）正文里有未转义的 < 和 &，先补转义再解析
+function sanitizeXml(xml) {
+  return xml
+    .replace(/&(?!(?:#\d+|#x[0-9a-fA-F]+|[a-zA-Z][a-zA-Z0-9]*);)/g, "&amp;")
+    .replace(/<(?![a-zA-Z/!?])/g, "&lt;");
+}
 
 async function translate(items, target) {
   const out = new Map();
