@@ -1,0 +1,13 @@
+{
+  "name": "bokewangzhan",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.mjs",
+    "write": "node scripts/ai-write.mjs"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "rss-parser": "^3.13.0"
+  }
+}

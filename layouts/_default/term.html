@@ -1,0 +1,19 @@
+{{ define "main" }}
+{{ $term := .Data.Term }}
+<section class="page-head">
+  <div class="container">
+    <p class="eyebrow">{{ i18n "categories" }}</p>
+    <h1 class="page-title"><span class="dot dot-{{ $term }}"></span>{{ i18n (printf "cat_%s" $term) }}</h1>
+  </div>
+</section>
+
+<section class="section section-tight">
+  <div class="container">{{ partial "category-nav.html" . }}</div>
+</section>
+
+<section class="section">
+  <div class="container">
+    {{ partial "list-content.html" . }}
+  </div>
+</section>
+{{ end }}

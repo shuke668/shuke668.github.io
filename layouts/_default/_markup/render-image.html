@@ -1,0 +1,6 @@
+{{- $src := .Destination -}}
+{{- with .Page.Resources.GetMatch .Destination -}}{{- $src = .RelPermalink -}}{{- end -}}
+<figure class="md-figure">
+  <img src="{{ $src | safeURL }}" alt="{{ .PlainText }}" loading="lazy">
+  {{ with .Title }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>

@@ -1,0 +1,11 @@
+{{ $pages := .Pages.ByDate.Reverse }}
+{{ if $pages }}
+<div class="card-grid">
+  {{ range $pages }}
+  {{ partial "news-card.html" . }}
+  {{ end }}
+</div>
+{{ partial "pagination.html" . }}
+{{ else }}
+<p class="empty">{{ i18n "empty" }}</p>
+{{ end }}

@@ -1,0 +1,53 @@
+{{ define "main" }}
+{{ $cat := "" }}
+{{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
+<article class="article">
+  <div class="container article-wrap">
+    <header class="article-head">
+      {{ with $cat }}
+      <a class="chip" href="{{ printf "categories/%s/" . | relLangURL }}">
+        <span class="dot dot-{{ . }}"></span>{{ i18n (printf "cat_%s" .) }}
+      </a>
+      {{ end }}
+      <h1 class="article-title">{{ .Title }}</h1>
+      {{ with .Params.summary }}<p class="article-lede">{{ . }}</p>{{ end }}
+      <div class="article-meta">
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-02 15:04" }}</time>
+        {{ with .Params.source_name }}
+        <span class="meta-sep">·</span><span>{{ i18n "source" }}：{{ . }}</span>
+        {{ end }}
+        {{ with .Params.source_url }}
+        <span class="meta-sep">·</span>
+        <a class="source-link" href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ i18n "original" }} ↗</a>
+        {{ end }}
+      </div>
+    </header>
+
+    <div class="prose">
+      {{ .Content }}
+    </div>
+
+    {{ if eq .Params.kind "flash" }}
+    <aside class="flash-note">
+      {{ if eq .Site.Language.Lang "zh" }}
+      本条为自动聚合，仅保留标题与摘要，版权归来源方所有。
+      {{ else }}
+      This entry is auto-aggregated. Only the headline and excerpt are kept; rights belong to the publisher.
+      {{ end }}
+    </aside>
+    {{ end }}
+
+    {{ with .Params.tags }}
+    <div class="tag-list">
+      {{ range . }}
+      <a class="tag" href="{{ printf "tags/%s/" (. | urlize) | relLangURL }}">#{{ . }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <nav class="article-nav">
+      <a href="{{ "news/" | relLangURL }}">← {{ i18n "all_news" }}</a>
+    </nav>
+  </div>
+</article>
+{{ end }}

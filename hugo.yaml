@@ -1,0 +1,57 @@
+baseURL: "https://shuke668.github.io/"
+title: "舒克的观察站"
+languageCode: "zh-cn"
+defaultContentLanguage: "zh"
+defaultContentLanguageInSubdir: false
+enableRobotsTXT: true
+timeZone: "Asia/Shanghai"
+summaryLength: 120
+
+pagination:
+  pagerSize: 20
+
+languages:
+  zh:
+    languageName: "中文"
+    languageCode: "zh-cn"
+    contentDir: "content/zh"
+    weight: 1
+    title: "舒克的观察站"
+    params:
+      description: "科技前沿 · 国际 · 政经 · 军事，每日观察与筛选。"
+      heroEyebrow: "DAILY BRIEF"
+      heroNote: "每天三次自动更新，只留值得看的部分。"
+  en:
+    languageName: "English"
+    languageCode: "en-us"
+    contentDir: "content/en"
+    weight: 2
+    title: "Shuke's Watch"
+    params:
+      description: "A daily read on technology, world affairs, political economy and defense."
+      heroEyebrow: "DAILY BRIEF"
+      heroNote: "Updated three times a day. Only what is worth reading."
+
+params:
+  author: "舒克"
+  since: 2026
+
+taxonomies:
+  category: categories
+  tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: "github"
+    noClasses: false
+
+outputs:
+  home: [HTML, RSS]
+  section: [HTML, RSS]
+
+sitemap:
+  changefreq: "daily"
+  priority: 0.7

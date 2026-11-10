@@ -1,0 +1,11 @@
+{{- $cat := "" -}}
+{{- with .Params.categories -}}{{- $cat = index . 0 -}}{{- end -}}
+<li class="row">
+  <time class="row-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-02" }}</time>
+  <span class="row-dot dot{{ with $cat }} dot-{{ . }}{{ end }}"></span>
+  <div class="row-main">
+    <a class="row-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ with .Params.summary }}<p class="row-summary">{{ . }}</p>{{ end }}
+  </div>
+  <span class="row-source">{{ with .Params.source_name }}{{ . }}{{ end }}</span>
+</li>

@@ -1,0 +1,75 @@
+{{ define "main" }}
+{{ $items := where .Site.RegularPages "Section" "in" (slice "news" "posts") }}
+{{ $items = $items.ByDate.Reverse }}
+{{ $featured := where $items "Params.featured" true }}
+
+<section class="hero">
+  <div class="container hero-inner">
+    <div class="hero-main">
+      <p class="eyebrow">{{ .Site.Params.heroEyebrow }}</p>
+      <h1 class="hero-title">{{ .Title }}</h1>
+      <p class="hero-lede">{{ .Site.Params.description }}</p>
+    </div>
+    <div class="hero-stats">
+      <div class="stat">
+        <span class="stat-num">{{ len $items }}</span>
+        <span class="stat-label">TOTAL</span>
+      </div>
+      {{ with site.Data.news_stats }}
+      <div class="stat">
+        <span class="stat-num">{{ .today_count | default 0 }}</span>
+        <span class="stat-label">TODAY</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">{{ .source_count | default 0 }}</span>
+        <span class="stat-label">SOURCES</span>
+      </div>
+      {{ end }}
+      {{ with site.Data.news_stats }}{{ with .updated_at }}
+      <div class="stat stat-time">
+        <span class="stat-num">{{ (time .).Format "15:04" }}</span>
+        <span class="stat-label">{{ i18n "last_updated" }}</span>
+      </div>
+      {{ end }}{{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="section section-tight">
+  <div class="container">{{ partial "category-nav.html" . }}</div>
+</section>
+
+<section class="section">
+  <div class="container layout-2col">
+    <div class="col-main">
+      {{ if $featured }}
+      <div class="section-head">
+        <h2>{{ i18n "featured" }}</h2>
+      </div>
+      <div class="card-grid card-grid-2">
+        {{ range first 4 $featured }}
+        {{ partial "news-card.html" . }}
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <div class="section-head">
+        <h2>{{ i18n "latest" }}</h2>
+        <a class="section-more" href="{{ "news/" | relLangURL }}">{{ i18n "all_news" }} →</a>
+      </div>
+
+      {{ if $items }}
+      <ul class="timeline">
+        {{ range first 30 $items }}
+        {{ partial "news-row.html" . }}
+        {{ end }}
+      </ul>
+      {{ else }}
+      <p class="empty">{{ i18n "empty" }}</p>
+      {{ end }}
+    </div>
+
+    {{ partial "sidebar.html" (dict "items" $items "page" .) }}
+  </div>
+</section>
+{{ end }}

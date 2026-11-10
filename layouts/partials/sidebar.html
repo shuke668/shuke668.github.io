@@ -1,0 +1,46 @@
+{{ $items := .items }}
+<aside class="sidebar">
+  <section class="side-block">
+    <h2 class="side-title">{{ i18n "categories" }}</h2>
+    <ul class="side-list">
+      {{ range slice "tech" "world" "biz" "defense" }}
+      {{ $cat := . }}
+      {{ $count := 0 }}
+      {{ range $items }}
+        {{ $cats := .Params.categories | default (slice) }}
+        {{ if in $cats $cat }}{{ $count = add $count 1 }}{{ end }}
+      {{ end }}
+      <li>
+        <a href="{{ printf "categories/%s/" $cat | relLangURL }}">
+          <span class="dot dot-{{ $cat }}"></span>
+          <span class="side-name">{{ i18n (printf "cat_%s" $cat) }}</span>
+          <span class="side-count">{{ $count }}</span>
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+
+  <section class="side-block">
+    <h2 class="side-title">{{ i18n "latest" }}</h2>
+    <ol class="side-news">
+      {{ range first 8 $items }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ol>
+  </section>
+
+  {{ with site.Data.sources }}
+  <section class="side-block">
+    <h2 class="side-title">{{ i18n "source" }}</h2>
+    <ul class="side-list side-list-sources">
+      {{ range first 10 . }}
+      <li>
+        <span class="side-name">{{ .name }}</span>
+        <span class="side-count">{{ i18n (printf "cat_%s" .category) }}</span>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+</aside>

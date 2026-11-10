@@ -1,0 +1,34 @@
+nav_home: "Home"
+nav_news: "Briefs"
+nav_posts: "Essays"
+nav_about: "About"
+
+hero_note: "Updated three times a day. Only what is worth reading."
+featured: "Today's Picks"
+latest: "Latest"
+all_news: "All Briefs"
+categories: "Categories"
+more: "More"
+
+cat_tech: "Technology"
+cat_world: "World"
+cat_biz: "Economy"
+cat_defense: "Defense"
+
+source: "Source"
+original: "Read original"
+published: "Published"
+fetched: "Fetched"
+last_updated: "Last updated"
+items: "items"
+empty: "Nothing here yet. Check back soon."
+
+pagination_prev: "Previous"
+pagination_next: "Next"
+
+tags: "Tags"
+about_title: "About"
+theme_toggle: "Toggle theme"
+back_home: "Back home"
+
+footer_note: "Headlines and short excerpts only. All rights belong to the original publishers."

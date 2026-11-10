@@ -1,0 +1,21 @@
+# 新闻源清单
+# category 只能是 tech / world / biz / defense
+# 实施时逐个实测可用性，失效的直接替换
+
+- { name: "Hacker News",        category: "tech",    rss: "https://hnrss.org/frontpage" }
+- { name: "Ars Technica",       category: "tech",    rss: "https://feeds.arstechnica.com/arstechnica/technology-lab" }
+- { name: "TechCrunch",         category: "tech",    rss: "https://techcrunch.com/feed/" }
+- { name: "MIT Tech Review",    category: "tech",    rss: "https://www.technologyreview.com/feed/" }
+- { name: "The Verge",          category: "tech",    rss: "https://www.theverge.com/rss/index.xml" }
+
+- { name: "BBC World",          category: "world",   rss: "https://feeds.bbci.co.uk/news/world/rss.xml" }
+- { name: "Al Jazeera",         category: "world",   rss: "https://www.aljazeera.com/xml/rss/all.xml" }
+- { name: "The Guardian World", category: "world",   rss: "https://www.theguardian.com/world/rss" }
+- { name: "NYT World",          category: "world",   rss: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml" }
+
+- { name: "华尔街见闻",          category: "biz",     rss: "https://dedicated.wallstreetcn.com/rss.xml" }
+- { name: "36氪",               category: "biz",     rss: "https://36kr.com/feed" }
+
+- { name: "Defense News",       category: "defense", rss: "https://www.defensenews.com/arc/outboundfeeds/rss/" }
+- { name: "The War Zone",       category: "defense", rss: "https://www.thedrive.com/the-war-zone/feed" }
+- { name: "Breaking Defense",   category: "defense", rss: "https://breakingdefense.com/feed/" }

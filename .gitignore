@@ -1,0 +1,11 @@
+public/
+resources/_gen/
+.hugo_build.lock
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Obsidian 本地工作区状态，跨设备不同步
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/

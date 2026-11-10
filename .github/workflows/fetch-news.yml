@@ -1,0 +1,40 @@
+name: fetch-news
+
+on:
+  schedule:
+    # UTC 23:30 / 04:30 / 10:30 → 北京时间 07:30 / 12:30 / 18:30
+    - cron: "30 23,4,10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: npm install --no-save rss-parser js-yaml
+
+      - name: Fetch
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit
+        run: |
+          git config user.name "news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content data
+          if ! git diff --staged --quiet; then
+            git commit -m "news: $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M') [skip-ai]"
+            git push
+          fi

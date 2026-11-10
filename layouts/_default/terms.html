@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="page-head">
+  <div class="container">
+    <p class="eyebrow">{{ i18n "categories" }}</p>
+    <h1 class="page-title">{{ i18n "categories" }}</h1>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="cat-grid">
+      {{ range slice "tech" "world" "biz" "defense" }}
+      <a class="cat-block cat-block-{{ . }}" href="{{ printf "categories/%s/" . | relLangURL }}">
+        <span class="dot dot-{{ . }}"></span>
+        <span class="cat-block-name">{{ i18n (printf "cat_%s" .) }}</span>
+        {{ with site.GetPage (printf "/categories/%s" .) }}
+        <span class="cat-block-count">{{ len .Pages }}</span>
+        {{ end }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

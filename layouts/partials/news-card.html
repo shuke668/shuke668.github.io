@@ -1,0 +1,18 @@
+{{- $cat := "" -}}
+{{- with .Params.categories -}}{{- $cat = index . 0 -}}{{- end -}}
+<article class="card">
+  <a class="card-link" href="{{ .RelPermalink }}">
+    <div class="card-top">
+      {{ with $cat }}
+      <span class="chip"><span class="dot dot-{{ . }}"></span>{{ i18n (printf "cat_%s" .) }}</span>
+      {{ end }}
+      <time class="card-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "01-02" }}</time>
+    </div>
+    <h3 class="card-title">{{ .Title }}</h3>
+    {{ with .Params.summary }}<p class="card-summary">{{ . }}</p>{{ end }}
+    <div class="card-foot">
+      <span class="card-source">{{ with .Params.source_name }}{{ . }}{{ end }}</span>
+      <span class="card-arrow" aria-hidden="true">→</span>
+    </div>
+  </a>
+</article>

@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-left">
+      <span>© {{ now.Year }} {{ .Site.Title }}</span>
+      <span class="footer-sep">·</span>
+      <span>{{ i18n "footer_note" }}</span>
+    </div>
+    <div class="footer-right">
+      {{ with .Site.Home.OutputFormats.Get "rss" }}
+      <a href="{{ .RelPermalink }}">RSS</a>
+      {{ end }}
+      <span class="footer-sep">·</span>
+      <span>Built with Hugo</span>
+    </div>
+  </div>
+</footer>

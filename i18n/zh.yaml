@@ -1,0 +1,34 @@
+nav_home: "首页"
+nav_news: "快讯"
+nav_posts: "深度"
+nav_about: "关于"
+
+hero_note: "每天三次自动更新，只留值得看的部分。"
+featured: "今日要闻"
+latest: "最新动态"
+all_news: "全部快讯"
+categories: "分类"
+more: "更多"
+
+cat_tech: "科技前沿"
+cat_world: "国际"
+cat_biz: "政经"
+cat_defense: "军事"
+
+source: "来源"
+original: "阅读原文"
+published: "发布于"
+fetched: "抓取于"
+last_updated: "最近更新"
+items: "条"
+empty: "暂无内容，稍后再来看看。"
+
+pagination_prev: "上一页"
+pagination_next: "下一页"
+
+tags: "标签"
+about_title: "关于"
+theme_toggle: "切换深浅色"
+back_home: "返回首页"
+
+footer_note: "只做标题与摘要聚合，版权归原作者所有。"

@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="page-head">
+  <div class="container">
+    <p class="eyebrow">{{ .Site.Params.heroEyebrow }}</p>
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{ with .Content }}<div class="page-desc">{{ . }}</div>{{ end }}
+  </div>
+</section>
+
+{{ if eq .Section "news" }}
+<section class="section section-tight">
+  <div class="container">{{ partial "category-nav.html" . }}</div>
+</section>
+{{ end }}
+
+<section class="section">
+  <div class="container">
+    {{ partial "list-content.html" . }}
+  </div>
+</section>
+{{ end }}

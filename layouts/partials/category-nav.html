@@ -1,0 +1,9 @@
+{{- $current := "" -}}
+{{- if eq .Kind "term" -}}{{- $current = .Data.Term -}}{{- end -}}
+<nav class="cat-nav" aria-label="{{ i18n "categories" }}">
+  {{ range slice "tech" "world" "biz" "defense" }}
+  <a class="cat-pill{{ if eq . $current }} is-active{{ end }}" href="{{ printf "categories/%s/" . | relLangURL }}">
+    <span class="dot dot-{{ . }}"></span>{{ i18n (printf "cat_%s" .) }}
+  </a>
+  {{ end }}
+</nav>
