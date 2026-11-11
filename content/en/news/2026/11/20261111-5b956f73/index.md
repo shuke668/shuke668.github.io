@@ -1,0 +1,20 @@
+---
+title: "A股三大股指盘初齐涨，创业板涨超1%，光模块大涨、“易中天”拉升，AI短剧调整，恒科指跌超1%，权重股科网股回落"
+date: 2026-11-11T02:03:57.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "A股和港股的光模块概念股大涨，新易盛、天孚通信、中际旭创等龙头股涨幅居前，有报道称，微软据传正敦促特朗普政府放弃一项涉及特定光学通信元器件进口限制政策。 11月11日，A股早盘低开高走，三大股指盘初集体上涨，创业板涨近1%，AI硬件爆发，光…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3785695"
+source_time: 2026-11-11T02:03:57.000Z
+featured: false
+draft: false
+---
+A股和港股的光模块概念股大涨，新易盛、天孚通信、中际旭创等龙头股涨幅居前，有报道称，微软据传正敦促特朗普政府放弃一项涉及特定光学通信元器件进口限制政策。 11月11日，A股早盘低开高走，三大股指盘初集体上涨，创业板涨近1%，AI硬件爆发，光…
+
+[Read original →](https://wallstreetcn.com/articles/3785695)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*

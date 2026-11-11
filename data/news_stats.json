@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-10T15:18:45.970Z",
-  "scanned": 37,
-  "written": 74,
-  "source_count": 14,
-  "today_count": 37,
+  "updated_at": "2026-11-11T02:56:46.683Z",
+  "scanned": 41,
+  "written": 82,
+  "source_count": 16,
+  "today_count": 38,
   "sources": [
     {
       "name": "Hacker News",
       "ok": true,
-      "items": 5,
+      "items": 3,
       "error": ""
     },
     {
@@ -20,73 +20,85 @@
     {
       "name": "TechCrunch",
       "ok": true,
-      "items": 5,
+      "items": 3,
       "error": ""
     },
     {
       "name": "MIT Tech Review",
       "ok": true,
-      "items": 4,
+      "items": 0,
       "error": ""
     },
     {
       "name": "The Verge",
       "ok": true,
-      "items": 0,
+      "items": 3,
+      "error": ""
+    },
+    {
+      "name": "爱范儿",
+      "ok": true,
+      "items": 3,
+      "error": ""
+    },
+    {
+      "name": "少数派",
+      "ok": true,
+      "items": 3,
       "error": ""
     },
     {
       "name": "BBC World",
       "ok": true,
-      "items": 5,
+      "items": 3,
       "error": ""
     },
     {
       "name": "Al Jazeera",
       "ok": true,
-      "items": 5,
+      "items": 3,
       "error": ""
     },
     {
       "name": "The Guardian World",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     },
     {
       "name": "NYT World",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
       "name": "华尔街见闻",
       "ok": true,
-      "items": 5,
+      "items": 3,
       "error": ""
     },
     {
-      "name": "36氪",
-      "ok": false,
-      "items": 0,
-      "error": "Feed not recognized as RSS 1 or 2."
+      "name": "钛媒体",
+      "ok": true,
+      "items": 3,
+      "error": ""
     },
     {
       "name": "Defense News",
       "ok": true,
-      "items": 5,
+      "items": 3,
       "error": ""
     },
     {
       "name": "The War Zone",
       "ok": true,
-      "items": 2,
+      "items": 3,
       "error": ""
     },
     {
       "name": "Breaking Defense",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     }
   ]

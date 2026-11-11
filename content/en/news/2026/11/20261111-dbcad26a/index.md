@@ -1,0 +1,20 @@
+---
+title: "通胀连续爆表，沃勒放话“50基点加息”！高盛坚持12月加25基点，但明年3月多加一次"
+date: 2026-11-11T01:28:12.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "通胀意外持续走高，迫使华尔街主要机构重新评估美联储政策路径。 据华尔街见闻，11月10日，美国公布10月核心CPI环比上涨0.3%，高于市场预期的0.2%；整体CPI环比上涨0.4%，同样超出预期的0.3%。 追风交易台消息，随后高盛首席美…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3785691"
+source_time: 2026-11-11T01:28:12.000Z
+featured: false
+draft: false
+---
+通胀意外持续走高，迫使华尔街主要机构重新评估美联储政策路径。 据华尔街见闻，11月10日，美国公布10月核心CPI环比上涨0.3%，高于市场预期的0.2%；整体CPI环比上涨0.4%，同样超出预期的0.3%。 追风交易台消息，随后高盛首席美…
+
+[Read original →](https://wallstreetcn.com/articles/3785691)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
