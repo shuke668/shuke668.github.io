@@ -1,0 +1,20 @@
+---
+title: "韩国政府再出手？周五召开资本市场座谈会，或讨论KOSDAQ振兴措施"
+date: 2026-11-11T11:51:23.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "韩国政府正准备出台新一轮干预政策以提振近期陷入低迷的股票市场，本周五将召开资本市场座谈会，重点讨论KOSDAQ市场的振兴措施。 据彭博引述当地媒体及金融投资业界消息，韩国金融委员会将于13日上午在首尔汝矣岛的韩国交易所主持召开资本市场座谈会…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3785741"
+source_time: 2026-11-11T11:51:23.000Z
+featured: false
+draft: false
+---
+韩国政府正准备出台新一轮干预政策以提振近期陷入低迷的股票市场，本周五将召开资本市场座谈会，重点讨论KOSDAQ市场的振兴措施。 据彭博引述当地媒体及金融投资业界消息，韩国金融委员会将于13日上午在首尔汝矣岛的韩国交易所主持召开资本市场座谈会…
+
+[Read original →](https://wallstreetcn.com/articles/3785741)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*

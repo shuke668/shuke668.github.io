@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-11T02:56:46.683Z",
-  "scanned": 41,
-  "written": 82,
+  "updated_at": "2026-11-11T12:04:05.791Z",
+  "scanned": 24,
+  "written": 48,
   "source_count": 16,
-  "today_count": 38,
+  "today_count": 62,
   "sources": [
     {
       "name": "Hacker News",
@@ -14,13 +14,13 @@
     {
       "name": "Ars Technica",
       "ok": true,
-      "items": 1,
+      "items": 0,
       "error": ""
     },
     {
       "name": "TechCrunch",
       "ok": true,
-      "items": 3,
+      "items": 1,
       "error": ""
     },
     {
@@ -32,7 +32,7 @@
     {
       "name": "The Verge",
       "ok": true,
-      "items": 3,
+      "items": 0,
       "error": ""
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "BBC World",
       "ok": true,
-      "items": 3,
+      "items": 1,
       "error": ""
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "The Guardian World",
       "ok": true,
-      "items": 1,
+      "items": 0,
       "error": ""
     },
     {
@@ -86,19 +86,19 @@
     {
       "name": "Defense News",
       "ok": true,
-      "items": 3,
+      "items": 0,
       "error": ""
     },
     {
       "name": "The War Zone",
       "ok": true,
-      "items": 3,
+      "items": 0,
       "error": ""
     },
     {
       "name": "Breaking Defense",
       "ok": true,
-      "items": 3,
+      "items": 1,
       "error": ""
     }
   ]

@@ -1,0 +1,20 @@
+---
+title: "上汽乘用车首破百万，MG立了头功"
+date: 2026-11-11T09:35:05.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "作者 | 周智宇 从98.6万辆到年销百万，上汽乘用车走了三年。 2023年与百万辆擦肩而过后，11月11日，上汽集团披露，旗下经营荣威、MG等品牌的乘用车分公司已在今年11月初首次跨过年销百万辆的门槛。 去年前十个月，上汽乘用车还比上汽大…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3785734"
+source_time: 2026-11-11T09:35:05.000Z
+featured: false
+draft: false
+---
+作者 | 周智宇 从98.6万辆到年销百万，上汽乘用车走了三年。 2023年与百万辆擦肩而过后，11月11日，上汽集团披露，旗下经营荣威、MG等品牌的乘用车分公司已在今年11月初首次跨过年销百万辆的门槛。 去年前十个月，上汽乘用车还比上汽大…
+
+[Read original →](https://wallstreetcn.com/articles/3785734)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
