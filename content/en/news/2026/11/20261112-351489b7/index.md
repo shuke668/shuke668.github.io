@@ -1,0 +1,20 @@
+---
+title: "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好"
+date: 2026-11-12T08:37:25.000Z
+kind: flash
+categories: ["tech"]
+tags: []
+summary: "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...查看全文"
+source_name: "少数派"
+source_url: "https://sspai.com/post/118366"
+source_time: 2026-11-12T08:37:25.000Z
+featured: false
+draft: false
+---
+在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...查看全文
+
+[Read original →](https://sspai.com/post/118366)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
