@@ -1,0 +1,20 @@
+---
+title: "Caught Between Killers: Ebola on One Side, Islamic State on the Other"
+date: 2026-11-13T10:02:05.000Z
+kind: flash
+categories: ["world"]
+tags: []
+summary: "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to…"
+source_name: "NYT World"
+source_url: "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html"
+source_time: 2026-11-13T10:02:05.000Z
+featured: false
+draft: false
+---
+The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to…
+
+[Read original →](https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
