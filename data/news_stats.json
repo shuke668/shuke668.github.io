@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-15T06:23:09.356Z",
-  "scanned": 11,
-  "written": 22,
+  "updated_at": "2026-11-15T12:10:54.742Z",
+  "scanned": 18,
+  "written": 36,
   "source_count": 16,
-  "today_count": 31,
+  "today_count": 49,
   "sources": [
     {
       "name": "Hacker News",
@@ -38,19 +38,19 @@
     {
       "name": "爱范儿",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     },
     {
       "name": "少数派",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     },
     {
       "name": "BBC World",
       "ok": true,
-      "items": 1,
+      "items": 2,
       "error": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "NYT World",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "钛媒体",
       "ok": true,
-      "items": 2,
+      "items": 3,
       "error": ""
     },
     {
