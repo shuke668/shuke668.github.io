@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-14T11:41:25.541Z",
-  "scanned": 19,
-  "written": 38,
+  "updated_at": "2026-11-15T02:58:47.827Z",
+  "scanned": 21,
+  "written": 42,
   "source_count": 16,
-  "today_count": 51,
+  "today_count": 20,
   "sources": [
     {
       "name": "Hacker News",
       "ok": true,
-      "items": 2,
+      "items": 3,
       "error": ""
     },
     {
@@ -20,7 +20,7 @@
     {
       "name": "TechCrunch",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
@@ -32,7 +32,7 @@
     {
       "name": "The Verge",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
@@ -44,13 +44,13 @@
     {
       "name": "少数派",
       "ok": true,
-      "items": 1,
+      "items": 0,
       "error": ""
     },
     {
       "name": "BBC World",
       "ok": true,
-      "items": 3,
+      "items": 2,
       "error": ""
     },
     {
@@ -68,13 +68,13 @@
     {
       "name": "NYT World",
       "ok": true,
-      "items": 3,
+      "items": 1,
       "error": ""
     },
     {
       "name": "华尔街见闻",
       "ok": true,
-      "items": 3,
+      "items": 2,
       "error": ""
     },
     {
