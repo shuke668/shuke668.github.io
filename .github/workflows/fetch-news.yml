@@ -8,6 +8,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   fetch:
@@ -38,3 +40,8 @@ jobs:
             git commit -m "news: $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M') [skip-ai]"
             git push
           fi
+
+  # GITHUB_TOKEN 推送的 commit 不会再触发 deploy 的 push 事件，这里显式调用
+  deploy:
+    needs: fetch
+    uses: ./.github/workflows/deploy.yml
