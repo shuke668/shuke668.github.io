@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-16T02:57:41.272Z",
-  "scanned": 25,
-  "written": 50,
+  "updated_at": "2026-11-16T13:04:01.794Z",
+  "scanned": 31,
+  "written": 62,
   "source_count": 16,
-  "today_count": 25,
+  "today_count": 56,
   "sources": [
     {
       "name": "Hacker News",
@@ -32,8 +32,8 @@
     {
       "name": "The Verge",
       "ok": true,
-      "items": 1,
-      "error": "Cannot access 'ENTITIES' before initialization"
+      "items": 2,
+      "error": ""
     },
     {
       "name": "爱范儿",
@@ -44,7 +44,7 @@
     {
       "name": "少数派",
       "ok": true,
-      "items": 1,
+      "items": 3,
       "error": ""
     },
     {
@@ -62,13 +62,13 @@
     {
       "name": "The Guardian World",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     },
     {
       "name": "NYT World",
       "ok": true,
-      "items": 1,
+      "items": 3,
       "error": ""
     },
     {
@@ -92,13 +92,13 @@
     {
       "name": "The War Zone",
       "ok": true,
-      "items": 1,
+      "items": 0,
       "error": ""
     },
     {
       "name": "Breaking Defense",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     }
   ]
