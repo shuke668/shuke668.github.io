@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-15T12:10:54.742Z",
-  "scanned": 18,
-  "written": 36,
+  "updated_at": "2026-11-16T02:57:41.272Z",
+  "scanned": 25,
+  "written": 50,
   "source_count": 16,
-  "today_count": 49,
+  "today_count": 25,
   "sources": [
     {
       "name": "Hacker News",
@@ -20,7 +20,7 @@
     {
       "name": "TechCrunch",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
@@ -32,13 +32,13 @@
     {
       "name": "The Verge",
       "ok": true,
-      "items": 0,
-      "error": ""
+      "items": 1,
+      "error": "Cannot access 'ENTITIES' before initialization"
     },
     {
       "name": "爱范儿",
       "ok": true,
-      "items": 1,
+      "items": 3,
       "error": ""
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "BBC World",
       "ok": true,
-      "items": 2,
+      "items": 3,
       "error": ""
     },
     {
@@ -68,13 +68,13 @@
     {
       "name": "NYT World",
       "ok": true,
-      "items": 3,
+      "items": 1,
       "error": ""
     },
     {
       "name": "华尔街见闻",
       "ok": true,
-      "items": 2,
+      "items": 3,
       "error": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "The War Zone",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     },
     {
