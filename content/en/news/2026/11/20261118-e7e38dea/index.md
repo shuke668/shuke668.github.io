@@ -1,0 +1,20 @@
+---
+title: "黄仁勋辞职后首次发声“救市”？标普纳指盘中深V收窄跌幅，报道后称英伟达董事会仍未考虑他复职"
+date: 2026-11-17T18:58:04.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "黄仁勋的一则声明，成为本周二美股盘中最受关注的消息之一。 美东时间11月17日周二美股早盘尾声时，英伟达创始人、前CEO黄仁勋在离职后首次公开发声，表示如果董事会认为他回归符合公司、股东和员工的最佳利益，他愿意重新出任CEO。黄仁勋的表态恰…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3786123"
+source_time: 2026-11-17T18:58:04.000Z
+featured: false
+draft: false
+---
+黄仁勋的一则声明，成为本周二美股盘中最受关注的消息之一。 美东时间11月17日周二美股早盘尾声时，英伟达创始人、前CEO黄仁勋在离职后首次公开发声，表示如果董事会认为他回归符合公司、股东和员工的最佳利益，他愿意重新出任CEO。黄仁勋的表态恰…
+
+[Read original →](https://wallstreetcn.com/articles/3786123)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*

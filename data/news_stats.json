@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-11-17T05:12:17.406Z",
-  "scanned": 1,
-  "written": 2,
+  "updated_at": "2026-11-17T19:17:29.306Z",
+  "scanned": 36,
+  "written": 72,
   "source_count": 16,
-  "today_count": 40,
+  "today_count": 27,
   "sources": [
     {
       "name": "Hacker News",
       "ok": true,
-      "items": 1,
+      "items": 3,
       "error": ""
     },
     {
       "name": "Ars Technica",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     },
     {
       "name": "TechCrunch",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
       "name": "MIT Tech Review",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
       "name": "The Verge",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
       "name": "爱范儿",
       "ok": true,
-      "items": 0,
+      "items": 2,
       "error": ""
     },
     {
       "name": "少数派",
       "ok": true,
-      "items": 0,
+      "items": 2,
       "error": ""
     },
     {
       "name": "BBC World",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
       "name": "Al Jazeera",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
@@ -68,37 +68,37 @@
     {
       "name": "NYT World",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
       "name": "华尔街见闻",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
       "name": "钛媒体",
-      "ok": true,
+      "ok": false,
       "items": 0,
-      "error": ""
+      "error": "Status code 503"
     },
     {
       "name": "Defense News",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
       "name": "The War Zone",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     },
     {
       "name": "Breaking Defense",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     }
   ]
