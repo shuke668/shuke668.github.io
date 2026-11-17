@@ -21,6 +21,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          # workflow_call 时 github.sha 是触发方的 commit，会漏掉抓取 job 刚推的内容
+          ref: main
           fetch-depth: 0
 
       - name: Setup Hugo
