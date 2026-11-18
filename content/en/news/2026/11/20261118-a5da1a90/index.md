@@ -1,0 +1,20 @@
+---
+title: "只剩央行一个买家！时隔11天，高盛再度下调黄金目标价至4650美元"
+date: 2026-11-18T04:03:20.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "现货黄金跌至逾一年低位，高盛认为美联储加息压制私人投资需求，央行买盘成为支撑金价的唯一力量。 周三，现货黄金下挫1.5%、跌破3800美元，为2025年10月以来最低，较一个月前下跌超300美元。美元持续走强，加之市场预期美联储将于12月再…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3786160"
+source_time: 2026-11-18T04:03:20.000Z
+featured: false
+draft: false
+---
+现货黄金跌至逾一年低位，高盛认为美联储加息压制私人投资需求，央行买盘成为支撑金价的唯一力量。 周三，现货黄金下挫1.5%、跌破3800美元，为2025年10月以来最低，较一个月前下跌超300美元。美元持续走强，加之市场预期美联储将于12月再…
+
+[Read original →](https://wallstreetcn.com/articles/3786160)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
