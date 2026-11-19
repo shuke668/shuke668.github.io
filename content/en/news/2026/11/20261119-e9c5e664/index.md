@@ -1,0 +1,20 @@
+---
+title: "新玩意 256｜少数派的编辑们最近买了啥？"
+date: 2026-11-19T09:16:00.000Z
+kind: flash
+categories: ["tech"]
+tags: []
+summary: "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
+source_name: "少数派"
+source_url: "https://sspai.com/post/119287"
+source_time: 2026-11-19T09:16:00.000Z
+featured: false
+draft: false
+---
+编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
+
+[Read original →](https://sspai.com/post/119287)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
