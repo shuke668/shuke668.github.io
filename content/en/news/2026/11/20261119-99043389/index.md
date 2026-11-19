@@ -1,0 +1,20 @@
+---
+title: "A股三大股指齐跌，科创50逆势涨1%，华虹、中芯国际大涨，恒科指跌2%，腾讯大跌近7%"
+date: 2026-11-19T04:07:22.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "腾讯周四股价跌至2025年2月以来新低，此前最新财报显示，WorkBuddy日活突破1000万，最近七天年化收入超5亿美元，三季度收入是二季度的5倍以上；云业务收入增速从21%加快至35%，模型即服务收入环比增长超三倍。与此同时，算力约束正…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3786248"
+source_time: 2026-11-19T04:07:22.000Z
+featured: false
+draft: false
+---
+腾讯周四股价跌至2025年2月以来新低，此前最新财报显示，WorkBuddy日活突破1000万，最近七天年化收入超5亿美元，三季度收入是二季度的5倍以上；云业务收入增速从21%加快至35%，模型即服务收入环比增长超三倍。与此同时，算力约束正…
+
+[Read original →](https://wallstreetcn.com/articles/3786248)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
