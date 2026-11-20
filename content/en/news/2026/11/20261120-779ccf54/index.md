@@ -1,0 +1,20 @@
+---
+title: "Signal is blocking Gemini and Siri AI from reading your screen"
+date: 2026-11-20T12:30:47.000Z
+kind: flash
+categories: ["tech"]
+tags: []
+summary: "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen c…"
+source_name: "The Verge"
+source_url: "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+source_time: 2026-11-20T12:30:47.000Z
+featured: false
+draft: false
+---
+Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen c…
+
+[Read original →](https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*

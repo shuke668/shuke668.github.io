@@ -1,0 +1,20 @@
+---
+title: "本周看什么 | 最近值得一看的 10 部作品"
+date: 2026-11-20T09:54:01.000Z
+kind: flash
+categories: ["tech"]
+tags: []
+summary: "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文"
+source_name: "少数派"
+source_url: "https://sspai.com/post/119337"
+source_time: 2026-11-20T09:54:01.000Z
+featured: false
+draft: false
+---
+📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文
+
+[Read original →](https://sspai.com/post/119337)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
