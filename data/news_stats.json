@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-21T04:12:32.496Z",
-  "scanned": 34,
-  "written": 68,
+  "updated_at": "2026-11-21T12:56:06.509Z",
+  "scanned": 21,
+  "written": 42,
   "source_count": 16,
-  "today_count": 33,
+  "today_count": 54,
   "sources": [
     {
       "name": "Hacker News",
@@ -14,37 +14,37 @@
     {
       "name": "Ars Technica",
       "ok": true,
-      "items": 1,
+      "items": 0,
       "error": ""
     },
     {
       "name": "TechCrunch",
       "ok": true,
-      "items": 3,
+      "items": 0,
       "error": ""
     },
     {
       "name": "MIT Tech Review",
       "ok": true,
-      "items": 2,
+      "items": 0,
       "error": ""
     },
     {
       "name": "The Verge",
       "ok": true,
-      "items": 3,
+      "items": 1,
       "error": ""
     },
     {
       "name": "爱范儿",
       "ok": true,
-      "items": 1,
+      "items": 2,
       "error": ""
     },
     {
       "name": "少数派",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "NYT World",
       "ok": true,
-      "items": 2,
+      "items": 3,
       "error": ""
     },
     {
@@ -86,19 +86,19 @@
     {
       "name": "Defense News",
       "ok": true,
-      "items": 2,
+      "items": 0,
       "error": ""
     },
     {
       "name": "The War Zone",
       "ok": true,
-      "items": 3,
+      "items": 0,
       "error": ""
     },
     {
       "name": "Breaking Defense",
       "ok": true,
-      "items": 3,
+      "items": 0,
       "error": ""
     }
   ]
