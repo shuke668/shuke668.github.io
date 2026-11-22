@@ -1,0 +1,20 @@
+---
+title: "从深圳到上海，少数派的共创故事还在继续"
+date: 2026-11-22T01:05:44.000Z
+kind: flash
+categories: ["tech"]
+tags: []
+summary: "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...查看全文"
+source_name: "少数派"
+source_url: "https://sspai.com/post/119318"
+source_time: 2026-11-22T01:05:44.000Z
+featured: false
+draft: false
+---
+11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...查看全文
+
+[Read original →](https://sspai.com/post/119318)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
