@@ -1,0 +1,20 @@
+---
+title: "沃什的“少说话”战略遭遇阻力，美联储内部分歧日益明显"
+date: 2026-11-23T13:42:25.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "沃什出任美联储主席半年后，其“少说话、不提供前瞻指引”的沟通理念正遭遇内部阻力。随着官员分歧公开化，市场对货币政策路径的判断难度上升，政策沟通缺位也开始影响决策效果。 最新信号来自上周三公布的10月议息会议纪要。据彭博报道，纪要显示，部分支…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3786534"
+source_time: 2026-11-23T13:42:25.000Z
+featured: false
+draft: false
+---
+沃什出任美联储主席半年后，其“少说话、不提供前瞻指引”的沟通理念正遭遇内部阻力。随着官员分歧公开化，市场对货币政策路径的判断难度上升，政策沟通缺位也开始影响决策效果。 最新信号来自上周三公布的10月议息会议纪要。据彭博报道，纪要显示，部分支…
+
+[Read original →](https://wallstreetcn.com/articles/3786534)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
