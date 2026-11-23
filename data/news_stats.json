@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-22T12:48:30.695Z",
-  "scanned": 17,
-  "written": 34,
+  "updated_at": "2026-11-23T03:55:20.321Z",
+  "scanned": 26,
+  "written": 52,
   "source_count": 16,
-  "today_count": 42,
+  "today_count": 26,
   "sources": [
     {
       "name": "Hacker News",
@@ -20,7 +20,7 @@
     {
       "name": "TechCrunch",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
@@ -32,25 +32,25 @@
     {
       "name": "The Verge",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
       "name": "爱范儿",
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": ""
     },
     {
       "name": "少数派",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     },
     {
       "name": "BBC World",
       "ok": true,
-      "items": 2,
+      "items": 3,
       "error": ""
     },
     {
@@ -62,19 +62,19 @@
     {
       "name": "The Guardian World",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     },
     {
       "name": "NYT World",
       "ok": true,
-      "items": 3,
+      "items": 0,
       "error": ""
     },
     {
       "name": "华尔街见闻",
       "ok": true,
-      "items": 3,
+      "items": 2,
       "error": ""
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "The War Zone",
       "ok": true,
-      "items": 0,
+      "items": 1,
       "error": ""
     },
     {

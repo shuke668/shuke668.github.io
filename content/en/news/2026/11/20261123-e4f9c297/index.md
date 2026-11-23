@@ -1,0 +1,20 @@
+---
+title: "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元"
+date: 2026-11-23T00:25:24.000Z
+kind: flash
+categories: ["tech"]
+tags: []
+summary: "· 曝小米汽车欧洲团队再添一名前小鹏高管 · 神舟二十四号完成发射前最后一次全区合练 · AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上…"
+source_name: "爱范儿"
+source_url: "https://www.ifanr.com/1690857"
+source_time: 2026-11-23T00:25:24.000Z
+featured: false
+draft: false
+---
+· 曝小米汽车欧洲团队再添一名前小鹏高管 · 神舟二十四号完成发射前最后一次全区合练 · AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上…
+
+[Read original →](https://www.ifanr.com/1690857)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
