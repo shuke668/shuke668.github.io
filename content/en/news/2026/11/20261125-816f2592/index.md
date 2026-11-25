@@ -1,0 +1,20 @@
+---
+title: "A股三大股指均跌超1%，医药、消费逆势走强，半导体产业链下跌，恒科指盘中涨超2%之后回落，小米涨4%"
+date: 2026-11-25T04:05:17.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "11月25日，A股A股在隔夜美股科技股\"一日游\"式回调的拖累下集体低开，随后盘初震荡收窄，盘中跌幅有所扩大，三大指数午盘均跌超1%，算力硬件局部活跃，光模块龙头“易中天”走高，天孚通信大涨超11%。零售、餐饮旅游等大消费活跃。半导体产业链陷…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3786653"
+source_time: 2026-11-25T04:05:17.000Z
+featured: false
+draft: false
+---
+11月25日，A股A股在隔夜美股科技股"一日游"式回调的拖累下集体低开，随后盘初震荡收窄，盘中跌幅有所扩大，三大指数午盘均跌超1%，算力硬件局部活跃，光模块龙头“易中天”走高，天孚通信大涨超11%。零售、餐饮旅游等大消费活跃。半导体产业链陷…
+
+[Read original →](https://wallstreetcn.com/articles/3786653)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*

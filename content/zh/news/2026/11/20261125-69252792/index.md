@@ -1,0 +1,20 @@
+---
+title: "Trump reportedly says pardoning Jensen Huang is ‘an option’"
+date: 2026-11-25T00:10:27.000Z
+kind: flash
+categories: ["tech"]
+tags: []
+summary: "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelli…"
+source_name: "TechCrunch"
+source_url: "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary"
+source_time: 2026-11-25T00:10:27.000Z
+featured: false
+draft: false
+---
+Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelli…
+
+[阅读原文 →](https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary)
+
+---
+
+*本条由抓取脚本自动生成，仅含标题与摘要，版权归来源方所有。*

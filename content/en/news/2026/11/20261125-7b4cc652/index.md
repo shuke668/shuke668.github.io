@@ -1,0 +1,20 @@
+---
+title: "黄仁勋复职“加速”美国国会“芯片出口管制”立法？"
+date: 2026-11-25T03:48:46.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "巴克莱认为，黄仁勋重返英伟达CEO职位，正在为美国国会推进半导体出口管制立法提供新的政治动能。国会两党议员已将其复职视为加快立法的又一理由，芯片管控走向更严格、更持久的轨道的可能性正在上升。 据追风交易台消息，巴克莱公共政策研究团队分析师M…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3786650"
+source_time: 2026-11-25T03:48:46.000Z
+featured: false
+draft: false
+---
+巴克莱认为，黄仁勋重返英伟达CEO职位，正在为美国国会推进半导体出口管制立法提供新的政治动能。国会两党议员已将其复职视为加快立法的又一理由，芯片管控走向更严格、更持久的轨道的可能性正在上升。 据追风交易台消息，巴克莱公共政策研究团队分析师M…
+
+[Read original →](https://wallstreetcn.com/articles/3786650)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
