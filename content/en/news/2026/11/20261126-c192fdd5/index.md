@@ -1,0 +1,20 @@
+---
+title: "纳指100一度跌超4%恐陷熊市，道指转涨，英伟达重挫7%，金银大跌，避险资金涌入美债"
+date: 2026-11-25T18:28:44.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "围绕人工智能热潮能否持续的疑虑正在重塑全球资产定价，投资者从科技股大举撤离，资金涌向国债与美元避险。 周三美股盘中有所反弹，标普500跌0.5%，纳指跌1.25%，道指转涨，纳斯达克100跌1.4%， 纳斯达克100指数较历史峰值回撤20%…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3786656"
+source_time: 2026-11-25T18:28:44.000Z
+featured: false
+draft: false
+---
+围绕人工智能热潮能否持续的疑虑正在重塑全球资产定价，投资者从科技股大举撤离，资金涌向国债与美元避险。 周三美股盘中有所反弹，标普500跌0.5%，纳指跌1.25%，道指转涨，纳斯达克100跌1.4%， 纳斯达克100指数较历史峰值回撤20%…
+
+[Read original →](https://wallstreetcn.com/articles/3786656)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
