@@ -1,0 +1,20 @@
+---
+title: "国常会“稳市”！AH股午后集体飙升，创业板暴涨超8%，科创50狂拉10%，恒科指涨5%"
+date: 2026-11-27T05:11:12.000Z
+kind: flash
+categories: ["biz"]
+tags: []
+summary: "11月27日，A股午后直线大涨，沪指涨超1%，创业板直线拉升涨超7%，科创综指、科创50均涨超9%，其中科创50涨近10%，中芯国际、寒武纪、华虹宏力、中微公司、海光信息全线爆发。AI算力、半导体板块大反弹，算力硬件拉升，光电路交换机、光模…"
+source_name: "华尔街见闻"
+source_url: "https://wallstreetcn.com/articles/3786820"
+source_time: 2026-11-27T05:11:12.000Z
+featured: false
+draft: false
+---
+11月27日，A股午后直线大涨，沪指涨超1%，创业板直线拉升涨超7%，科创综指、科创50均涨超9%，其中科创50涨近10%，中芯国际、寒武纪、华虹宏力、中微公司、海光信息全线爆发。AI算力、半导体板块大反弹，算力硬件拉升，光电路交换机、光模…
+
+[Read original →](https://wallstreetcn.com/articles/3786820)
+
+---
+
+*Auto-generated from RSS. Headline and excerpt only; all rights belong to the publisher.*
